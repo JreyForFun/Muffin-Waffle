@@ -14,8 +14,6 @@ h1 {
     text-align: center;
     color: #dfbd94;
     margin: 50px;
-    letter-spacing: 0; /* Removes extra space between letters */
-    word-spacing: 0;   /* Removes extra space between words */
 }
 h2 {
     font-family: 'Satisfy', cursive;
@@ -109,8 +107,8 @@ ul.socialmedia {
 }
 @media (max-width: 768px) {
 h1 {
-    font-size: 80px;
-    margin-bottom: 35px;
+    font-size: 90px;
+    margin-bottom: 40px;
 }
 h3 {
     font-size: 25px;
