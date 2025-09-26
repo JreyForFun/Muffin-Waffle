@@ -116,9 +116,9 @@ p {
 }
 .space {
     margin-top: -20px;
-}
+}   
 .fixed-image img {
-    width: 450px;
+    width: 140px;
     height: 180px;
     object-fit: cover;
     border: none;
