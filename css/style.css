@@ -28,7 +28,7 @@ h3 {
     margin-bottom: 20px;
 }
 .lore-lore {
-    font-size: 35px;
+    font-size: 30px;
 }
 h4 {
     font-family: 'Open Sans', sans-serif;
@@ -36,7 +36,16 @@ h4 {
     color: #dfbd94;
     margin-bottom: 10px;
 }
-
+.name-cat-m {
+    font-size: 30px;
+    font-family: Satisfy; 
+    color:#dfbd94;
+}
+.name-cat-w {
+    font-size: 30px;
+    font-family: Satisfy; 
+    color:#996868;
+}
 p {
     font-family: 'Open Sans', sans-serif;
     font-size: 20px;
@@ -44,9 +53,7 @@ p {
     color: #fff;
     margin-bottom: 30px;
 }
-.name-cat {
-    font-size: 30px;
-}
+
 hr {
     border: none;
 }
