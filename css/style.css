@@ -118,8 +118,8 @@ p {
     margin-top: -20px;
 }   
 .fixed-image img {
-    width: 140px;
-    height: 150px;
+    width: 150px;
+    height: 130px;
     object-fit: cover;
     border: none;
     border-radius: 15px;
