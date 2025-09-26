@@ -119,7 +119,7 @@ p {
 }   
 .fixed-image img {
     width: 140px;
-    height: 180px;
+    height: 150px;
     object-fit: cover;
     border: none;
     border-radius: 15px;
