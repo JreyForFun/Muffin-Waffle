@@ -107,7 +107,7 @@ ul.socialmedia {
 }
 @media (max-width: 768px) {
 h1 {
-    font-size: 80px;
+    font-size: 90px;
     margin-bottom: 35px;
 }
 h3 {
@@ -127,7 +127,7 @@ p {
 }
 .space {
     margin-top: -20px;
-}   
+}
 .fixed-image img {
     width: 160px;
     height: 145px;
