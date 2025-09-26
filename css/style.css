@@ -1,5 +1,5 @@
 body {
-    background: #eee;
+    background: #ede9e4;
 }
 a {
     color: #ed5b5b;
@@ -24,7 +24,7 @@ h2 {
 h3 {
     font-family: 'Open Sans', sans-serif;
     font-size: 55px;
-    color: #a09e9e;
+    color: #dfbd94;
     margin-bottom: 20px;
 }
 h4 {
@@ -45,7 +45,7 @@ hr {
 }
 #about {
     min-height: 130px;
-    background: #434242;
+    background: #453f3f;
     padding: 25px;
 }
 .btn-red {
@@ -66,6 +66,13 @@ hr {
 .portfolio-link:hover {
     color: #fff;
     opacity: .4;
+}
+.fixed-image img {
+    width: 400px; /* Ensures the image does not exceed the column's width */
+    height: 350px;
+    object-fit: cover;
+    border: none;
+    border-radius: 13px;    /* Maintains the aspect ratio of the image */ /* Removes extra space below the image */
 }
 ul.socialmedia {
     text-align: center;
@@ -111,15 +118,10 @@ p {
     margin-top: -20px;
 }
 .fixed-image img {
-    width: 50px; /* Ensures the image does not exceed the column's width */
-    height: 50px;
+    width: 450px;
+    height: 200px;
+    object-fit: cover;
     border: none;
-    border-radius: 20px;    /* Maintains the aspect ratio of the image */ /* Removes extra space below the image */
+    border-radius: 15px;
 }
-}
-.fixed-image img {
-    width: 400px; /* Ensures the image does not exceed the column's width */
-    height: 300px;
-    border: none;
-    border-radius: 20px;    /* Maintains the aspect ratio of the image */ /* Removes extra space below the image */
 }
