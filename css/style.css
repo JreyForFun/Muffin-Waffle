@@ -28,13 +28,21 @@ h3 {
     margin-bottom: 20px;
 }
 .lore-lore {
-    font-size: 30px;
+    font-size: 20px;
 }
 h4 {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     color: #dfbd94;
     margin-bottom: 10px;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    line-height: 40px;
+    color: #fff;
+    margin-bottom: 30px;
 }
 .name-cat-m {
     font-size: 30px;
@@ -46,14 +54,6 @@ h4 {
     font-family: Satisfy; 
     color:#996868;
 }
-p {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 20px;
-    line-height: 40px;
-    color: #fff;
-    margin-bottom: 30px;
-}
-
 hr {
     border: none;
 }
